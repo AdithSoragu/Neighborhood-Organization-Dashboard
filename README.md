@@ -153,12 +153,6 @@ Interactive Table
 
 This section helps users track detailed financial records.
 
----
-
-# 📌 4. KPI Card
-
-### Visualization:
-KPI Card
 
 ---
 
