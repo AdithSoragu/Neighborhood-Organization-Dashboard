@@ -138,13 +138,7 @@ Analyzes:
 
 ---
 
-# 📌 3. Transaction Details Table
 
-### Visualization:
-Interactive Table
-
-### Displays:
-- Expense Type
 
 
 
