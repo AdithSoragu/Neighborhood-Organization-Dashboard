@@ -129,12 +129,6 @@ Analyzes:
 - Payment methods used
 - Number of transactions
 
-### Payment Methods Included:
-- Cash
-- Online Transfer
-- GPay
-- Bank Transfer
-- Cheque
 
 
 ---
