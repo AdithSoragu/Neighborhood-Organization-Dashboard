@@ -265,11 +265,6 @@ Through this project, the following concepts were learned:
 
 - Power BI Dashboard Design
 - Data Visualization Techniques
-- Business Intelligence Concepts
-- KPI Analysis
-- Interactive Reporting
-- Financial Data Analytics
-- Report Generation
 
 
 ---
