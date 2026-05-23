@@ -64,10 +64,6 @@ The dashboard includes:
 
 ---
 
-
-
----
-
 # ⚙️ Software and Tools Used
 
 | Tool | Purpose |
