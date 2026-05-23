@@ -257,14 +257,7 @@ This dashboard can be used in:
 - User-friendly interface
 - Centralized information system
 
----
 
-# 📚 Learning Outcomes
-
-Through this project, the following concepts were learned:
-
-- Power BI Dashboard Design
-- Data Visualization Techniques
 
 
 ---
