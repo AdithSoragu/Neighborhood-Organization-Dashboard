@@ -97,11 +97,6 @@ Neighborhood_Organization_Dashboard/
 
 ---
 
-# 📊 Dashboard Visualizations
-
-
-
-
 ---
 
 # 🔄 Working Principle
