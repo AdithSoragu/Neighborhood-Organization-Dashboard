@@ -108,15 +108,6 @@ The dashboard contains multiple visual reports.
 ### Visualization:
 Bar Chart
 
-### Purpose:
-Displays:
-- Total amount distributed to individuals
-- Expense comparison between members
-
-### Insights:
-- Identifies highest spending categories
-- Shows financial distribution patterns
-
 
 
 
