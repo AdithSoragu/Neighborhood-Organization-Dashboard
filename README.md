@@ -64,12 +64,7 @@ The dashboard includes:
 
 ---
 
-# 📂 Project Structure
 
-```text
-Neighborhood_Organization_Dashboard/
-│
-├── dashboard.pbix            # Power BI Dashboard File
 
 ---
 
