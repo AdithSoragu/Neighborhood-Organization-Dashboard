@@ -209,13 +209,6 @@ Users can analyze:
 
 ---
 
-# 📷 Dashboard Analysis
-
-The dashboard provides:
-
-
----
-
 # 🚀 Applications
 
 This dashboard can be used in:
