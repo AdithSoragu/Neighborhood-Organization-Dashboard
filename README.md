@@ -136,11 +136,6 @@ Analyzes:
 - Bank Transfer
 - Cheque
 
----
-
-
-
-
 
 ---
 
