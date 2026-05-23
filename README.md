@@ -222,12 +222,6 @@ The interface is designed for:
 - Better understanding
 - Quick decision making
 
----
-
-# 📈 Key Insights
-
-Using the dashboard, users can:
-- Identify major expenses
 
 
 ---
