@@ -145,13 +145,7 @@ Interactive Table
 
 ### Displays:
 - Expense Type
-- Expense Description
-- Amount
-- Month
-- Year
-- Person Name
 
-This section helps users track detailed financial records.
 
 
 ---
