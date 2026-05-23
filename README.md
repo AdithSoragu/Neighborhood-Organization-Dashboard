@@ -124,11 +124,6 @@ Displays:
 ### Visualization:
 Line/Area Chart
 
-### Purpose:
-Analyzes:
-- Payment methods used
-- Number of transactions
-
 
 
 ---
