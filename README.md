@@ -160,14 +160,6 @@ This section helps users track detailed financial records.
 ### Visualization:
 KPI Card
 
-### Purpose:
-Displays the total transaction amount.
-
-### Example:
-```text
-Total Amount = 218K
-```
-
 ---
 
 # 🔄 Working Principle
