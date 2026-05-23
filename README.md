@@ -70,11 +70,6 @@ The dashboard includes:
 Neighborhood_Organization_Dashboard/
 │
 ├── dashboard.pbix            # Power BI Dashboard File
-├── dataset.xlsx              # Dataset Used
-├── screenshots/              # Dashboard Images
-├── reports/                  # Exported Reports
-└── README.md                 # Documentation
-```
 
 ---
 
