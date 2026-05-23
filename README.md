@@ -257,9 +257,6 @@ This dashboard can be used in:
 - User-friendly interface
 - Centralized information system
 
-
-
-
 ---
 
 # 👨‍💻 Author
