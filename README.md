@@ -212,10 +212,6 @@ Users can analyze:
 # 📷 Dashboard Analysis
 
 The dashboard provides:
-- Interactive filtering
-- Real-time visualization
-- Clear graphical representation
-- Easy financial tracking
 
 
 ---
