@@ -252,10 +252,7 @@ This dashboard can be used in:
 
 - Interactive visualization
 - Easy financial tracking
-- Better data analysis
-- Improved decision making
-- User-friendly interface
-- Centralized information system
+
 
 ---
 
