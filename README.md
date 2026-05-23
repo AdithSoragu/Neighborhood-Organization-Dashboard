@@ -271,18 +271,6 @@ Through this project, the following concepts were learned:
 - Financial Data Analytics
 - Report Generation
 
----
-
-# 🔮 Future Enhancements
-
-The project can be extended by adding:
-
-- Real-time database integration
-- Automated report generation
-- Mobile dashboard support
-- AI-based analytics
-- Expense prediction system
-- Cloud-based dashboard hosting
 
 ---
 
