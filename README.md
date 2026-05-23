@@ -117,12 +117,6 @@ Displays:
 - Identifies highest spending categories
 - Shows financial distribution patterns
 
----
-
-# 📌 2. Count of Given To by Mode of Payment
-
-### Visualization:
-Line/Area Chart
 
 
 
