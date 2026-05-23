@@ -222,8 +222,6 @@ The interface is designed for:
 - Better understanding
 - Quick decision making
 
-
-
 ---
 
 # 🚀 Applications
