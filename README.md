@@ -1,4 +1,4 @@
-# 🏘️ Neighborhood Organization Dashboard using Power BI
+# 🏘️Neighborhood Organization Dashboard using Power BI
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tool-Power%20BI-yellow">
