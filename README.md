@@ -99,15 +99,6 @@ Neighborhood_Organization_Dashboard/
 
 # 📊 Dashboard Visualizations
 
-The dashboard contains multiple visual reports.
-
----
-
-# 📌 1. Sum of Amount by Given To
-
-### Visualization:
-Bar Chart
-
 
 
 
