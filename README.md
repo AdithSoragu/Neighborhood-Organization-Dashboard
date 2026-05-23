@@ -217,10 +217,6 @@ The dashboard provides:
 - Clear graphical representation
 - Easy financial tracking
 
-The interface is designed for:
-- Simple navigation
-- Better understanding
-- Quick decision making
 
 ---
 
