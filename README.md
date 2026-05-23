@@ -228,10 +228,7 @@ The interface is designed for:
 
 Using the dashboard, users can:
 - Identify major expenses
-- Track payment methods
-- Analyze financial activity
-- Monitor organizational spending
-- Improve budget planning
+
 
 ---
 
