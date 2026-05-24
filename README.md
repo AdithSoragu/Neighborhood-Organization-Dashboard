@@ -134,7 +134,6 @@ This dashboard can be used in:
 - Expense Tracking Systems
 - Small Organization Analytics
 
-
 ---
 
 # 👨‍💻 Author
@@ -144,4 +143,3 @@ This dashboard can be used in:
 Electronics and Communication Engineering
 
 ---
-
